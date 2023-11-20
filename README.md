@@ -12,3 +12,14 @@ chmod -R 777 2>/dev/null
 ```python
 ./exp
 ```
+
+eg. dir tree：
+```
+CVE-2021-4034
+├─ GCONV_PATH=.%
+│    └─ pwnkit.so:.
+├─ exp
+├─ gconv-modules
+├─ pwnkit.c
+└─ pwnkit.so
+```
