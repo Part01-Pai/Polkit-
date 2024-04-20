@@ -1,5 +1,5 @@
 # Polkit-Permission-promotion-compiled
-Polkit提权包 CVE-2021-4034 （供需要的人方便使用
+Polkit提权包 CVE-2021-4034 （Easy access for those who need it)
 
 源项目（需编译）：https://github.com/berdav/CVE-2021-4034
 
